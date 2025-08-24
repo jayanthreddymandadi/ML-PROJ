@@ -1,0 +1,13 @@
+[2025-08-24 11:23:04,604] INFO - Loading train and test datasets
+[2025-08-24 11:23:04,644] INFO - Train and Test Data loaded successfully
+[2025-08-24 11:23:04,645] INFO - Obtaining preprocessing object
+[2025-08-24 11:23:04,645] INFO - Creating preprocessing pipelines for numerical and categorical features
+[2025-08-24 11:23:04,645] INFO - Numerical columns: ['Number_of_vehicles_involved', 'Number_of_casualties']
+[2025-08-24 11:23:04,645] INFO - Categorical columns: ['Day_of_week', 'Age_band_of_driver', 'Sex_of_driver', 'Educational_level', 'Type_of_vehicle', 'Area_accident_occured', 'Road_surface_conditions', 'Light_conditions', 'Weather_conditions', 'Type_of_collision']
+[2025-08-24 11:44:41,446] INFO - Loading train and test datasets
+[2025-08-24 11:44:41,462] INFO - Train and Test Data loaded successfully
+[2025-08-24 11:44:41,462] INFO - Numerical columns: ['Number_of_vehicles_involved', 'Number_of_casualties']
+[2025-08-24 11:44:41,462] INFO - Categorical columns: ['Day_of_week', 'Age_band_of_driver', 'Sex_of_driver', 'Educational_level', 'Type_of_vehicle', 'Area_accident_occured', 'Road_surface_conditions', 'Light_conditions', 'Weather_conditions', 'Type_of_collision']
+[2025-08-24 13:09:37,066] INFO - Splitting training and test input data
+[2025-08-24 13:26:42,728] INFO - Splitting training and test input data
+[2025-08-24 13:27:40,639] INFO - Splitting training and test input data

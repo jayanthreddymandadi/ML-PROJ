@@ -1,0 +1,19 @@
+[2025-08-23 12:33:45,185] INFO - This is an info message from test_logger.py
+[2025-08-23 12:36:07,936] INFO - Hello, this is Jayanth's ML project logger!
+[2025-08-23 16:14:11,527] INFO - Entered the data ingestion method or component
+[2025-08-23 16:17:19,622] INFO - Entered the data ingestion method or component
+[2025-08-23 16:17:19,642] INFO - Read the dataset as dataframe
+[2025-08-23 16:22:55,159] INFO - Entered the data ingestion method or component
+[2025-08-23 16:23:18,503] INFO - Entered the data ingestion method or component
+[2025-08-23 16:25:04,754] INFO - Entered the data ingestion method or component
+[2025-08-23 16:25:04,765] INFO - Read the dataset as dataframe
+[2025-08-23 16:27:47,391] INFO - Entered the data ingestion method or component
+[2025-08-23 16:27:47,403] INFO - Read the dataset as dataframe
+[2025-08-23 16:29:52,772] INFO - Entered the data ingestion method or component
+[2025-08-23 16:29:52,784] INFO - Read the dataset as dataframe
+[2025-08-23 16:29:52,814] INFO - Train test split initiated
+[2025-08-23 16:29:52,854] INFO - Ingestion of the data is completed
+[2025-08-23 16:31:32,399] INFO - Entered the data ingestion method or component
+[2025-08-23 16:31:32,411] INFO - Read the dataset as dataframe
+[2025-08-23 16:31:32,432] INFO - Train test split initiated
+[2025-08-23 16:31:32,456] INFO - Ingestion of the data is completed
